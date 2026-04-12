@@ -1,0 +1,30 @@
+Be creative this week, make sure to use your skills in developing the layout and content:
+
+ 
+
+- 3 pages, Home, About, Contact
+
+- use a grid container for each
+
+- get colours from the Adobe color wheel
+
+- external style sheet, common across all pages
+
+- create a header, footer, navbar, article, aside (making sure the the layout is different to the example I gave you)
+
+- add at least one media query to ensure that your pages are responsive
+
+- represent living off the grid, using this information: https://offgridworld.com/how-to-live-off-the-grid-8-things-you-need-now/ 
+
+ 
+
+Submission: As text, but with the link to your Github pages public site, and also the link to your code repo (public)
+
+ 
+
+Rubric:
+
+display:grid used for all 3 pages and content sized professionally	15
+colours from Adobe wheel	3
+external style file	7
+submission link works (as discussed in class)	5
