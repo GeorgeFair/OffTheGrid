@@ -33,3 +33,9 @@ body {
 .infoBox p {
   padding: 5px;
 }
+
+@media (max-width: 600px) {
+    .infoBox {
+        grid-template-columns: 1fr;
+    }
+}
