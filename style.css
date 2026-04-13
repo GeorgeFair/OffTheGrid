@@ -31,7 +31,8 @@ body {
 }
 
 .infoBox p {
-  padding: 5px;
+    padding: 5px;
+    font-size: 18px;
 }
 
 @media (max-width: 600px) {
